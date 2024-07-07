@@ -1,0 +1,6 @@
+
+
+primeira tarefa 
+resave o dict controle Tiles Orbitas
+// testes de nuvens e mosaic composite aqui nesse scripts 
+https://code.earthengine.google.com/9e24373e43b239e4310ecd1affc3190e
